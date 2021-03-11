@@ -1,0 +1,2 @@
+D:\AN 3\PG\PROIECT\OpenGLProjectPG\x64\Debug\OpenGLProjectPG.exe
+D:\AN 3\PG\PROIECT\OpenGLProjectPG\x64\Debug\OpenGLProjectPG.pdb
